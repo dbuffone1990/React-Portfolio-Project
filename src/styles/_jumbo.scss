@@ -1,0 +1,19 @@
+$color-purple: #7400b8ff;
+$color-french-violet: #6930c3ff;
+$color-slate-blue: #5e60ceff;
+$color-tufts-blue: #5390d9ff;
+$color-blue-jeans: #4ea8deff;
+$color-vivid-sky-blue: #48bfe3ff;
+$color-sky-blue-crayola: #56cfe1ff;
+$color-medium-turquoise: #64dfdfff;
+$color-turquoise: #72efddff;
+$color-aquamarine: #80ffdbff;
+
+.heading-secondary,
+.lead {
+    font-family: $font-secondary;
+}
+
+.startBtn {
+    background-color: $color-purple;
+}
